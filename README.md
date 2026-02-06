@@ -170,7 +170,6 @@ Base URL: `http://localhost:5001/api/items`
 ## 📸 Screenshots
 
 ![Dashboard Screenshot](./screenshots/dashboard.png)
-*(Add actual screenshots of the Glassmorphism UI here)*
 
 ---
 
