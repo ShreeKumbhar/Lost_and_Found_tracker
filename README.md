@@ -169,7 +169,7 @@ Base URL: `http://localhost:5001/api/items`
 
 ## 📸 Screenshots
 
-![Dashboard Placeholder](https://via.placeholder.com/800x400?text=Lost+%26+Found+Main+Dashboard)
+![Dashboard Screenshot](./screenshots/dashboard.png)
 *(Add actual screenshots of the Glassmorphism UI here)*
 
 ---
